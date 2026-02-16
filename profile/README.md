@@ -195,7 +195,6 @@ Modern, performant marketing website built with Next.js 15. Features i18n (DE/EN
   - nginx Reverse Proxy
   - Mailcow Email Server
   - Redis Cache
-- **IP:** `91.99.79.104`
 - **Security:** BSI IT-Grundschutz++
 
 </td>
@@ -208,7 +207,6 @@ Modern, performant marketing website built with Next.js 15. Features i18n (DE/EN
   - Ollama (Local LLMs)
   - MongoDB + Redis
   - Prometheus + Grafana
-- **IP:** `148.251.178.101`
 - **GPU:** NVIDIA for AI Acceleration
 
 </td>
