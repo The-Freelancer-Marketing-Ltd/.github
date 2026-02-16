@@ -56,18 +56,19 @@ A comprehensive business management platform built with security-first architect
 <td width="50%">
 
 ### 🤖 **Taskilo KI**
-> *Multi-Agent AI Platform*
+> *Proprietäre Multi-Agent AI Platform*
 
 **The Intelligence Layer**
 
-Advanced AI platform with 19 specialized agents for finance, tax, analytics, SEO, and more. GPU-accelerated with hybrid AI architecture.
+Eigens entwickelte KI-Plattform mit 19 spezialisierten Agenten für Finanzanalyse, Steueroptimierung, Risikomanagement und Wachstumsstrategien. Hybrid-Architektur kombiniert proprietäre ML-Modelle mit Cloud LLMs.
 
 **Tech Stack:**
-- 🧠 FastAPI + ML/AI
-- 🎯 19 Specialized Agents
+- 🧠 Eigene ML-Modelle (Isolation Forest, Prophet, Transformers)
+- 🤖 Hugging Face NER (deutsches NLP)
+- 🎯 19 Spezialisierte Agenten (Finanz, Steuer, Risiko, etc.)
 - 🚀 GPU-Optimized (NVIDIA)
-- 🔮 Groq + Anthropic Claude
-- 📊 MongoDB + Redis
+- ☁️ LLM Integration (Groq, Claude, Ollama)
+- 📊 MongoDB + PostgreSQL + Redis
 
 [→ View Repository](https://github.com/The-Freelancer-Marketing-Ltd/taskilo-ki)
 
@@ -157,10 +158,10 @@ Modern, performant marketing website built with Next.js 15. Features i18n (DE/EN
 
 ### **AI & Machine Learning**
 
-![Anthropic](https://img.shields.io/badge/Claude_4.5-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Prophet](https://img.shields.io/badge/Prophet-4267B2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### **Database & Infrastructure**
 
