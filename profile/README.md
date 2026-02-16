@@ -82,12 +82,13 @@ Eigens entwickelte KI-Plattform mit 19 spezialisierten Agenten für Finanzanalys
 
 **Supporting Services**
 
-Modular microservices including KI backend and webmail services. Deployed across GPU/CPU servers with automated CI/CD.
+Eigenentwickelte Microservices inklusive vollständigem Webmail-System (Full-Stack). Deployed across GPU/CPU servers mit automatisiertem CI/CD.
 
 **Tech Stack:**
-- 🔧 Turborepo Structure
+- 🔧 Turborepo Monorepo
+- 📧 Eigenes Webmail (Express/Node.js + Next.js 15)
 - 🖥️ Multi-Server Deployment
-- 📧 Mailcow Integration
+- 🔐 API Key Auth + Rate Limiting
 - 🔄 GitHub Actions CI/CD
 
 [→ View Repository](https://github.com/The-Freelancer-Marketing-Ltd/taskilo-services)
@@ -193,8 +194,9 @@ Modern, performant marketing website built with Next.js 15. Features i18n (DE/EN
 - **Location:** Nürnberg, Germany
 - **Services:**
   - Taskilo Platform API
+  - Taskilo Webmail Backend (Node.js/Express)
   - nginx Reverse Proxy
-  - Mailcow Email Server
+  - Mail Server (Mailcow - SMTP/IMAP)
   - Redis Cache
 - **Security:** BSI IT-Grundschutz++
 
